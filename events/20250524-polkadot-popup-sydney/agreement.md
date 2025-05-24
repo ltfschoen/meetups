@@ -14,7 +14,7 @@ This agreement is issued by:
 
 For the event:
 - Event Date: 2025-05-24
-- Event Location: Clovelly Hotel,381 Clovelly Rd, Clovelly NSW 2031, Australia
+- Event Location: Clovelly Hotel, 381 Clovelly Rd, Clovelly NSW 2031, Australia
 - Primary Jurisdiction: New South Wales, Australia
 
 ## Participant Section
@@ -24,7 +24,7 @@ For the event:
 The following acknowledgments should be added as required questions in the event registration platform (e.g., Meetup, EventBrite, Luma) that must be checked before an organizer can accept an attendee:
 
 - [ ] I confirm I am of legal age in my jurisdiction
-- [ ] I have read and understood the Agreement associated with this event in its entirety that is provided at the Document Link specified in the Document Control section
+- [ ] I have read and understood the Agreement associated with this event in its entirety that is provided at the Document Link specified in the Document Control section, where the Agreement Document Link is: https://raw.githubusercontent.com/ltfschoen/meetups/refs/heads/main/events/20250524-polkadot-popup-sydney/agreement.md
 - [ ] I understand that the Agreement at the link provided in the previous question is a legally binding document
 - [ ] I am entering into the Agreement that was provided at the link in the previous question voluntarily
 - [ ] I understand English or have had the Agreement document that was provided at the link in the previous question translated

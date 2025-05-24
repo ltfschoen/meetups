@@ -26,7 +26,7 @@ For the event:
 The following acknowledgments should be added as required questions in the event registration platform (e.g., Meetup, EventBrite, Luma) that must be checked before an organizer can accept an attendee:
 
 - [ ] I confirm I am of legal age in my jurisdiction
-- [ ] I have read and understood the Agreement associated with this event in its entirety that is provided at the Document Link specified in the Document Control section
+- [ ] I have read and understood the Agreement associated with this event in its entirety that is provided at the Document Link specified in the Document Control section, where the Agreement Document Link is: _____________________
 - [ ] I understand that the Agreement at the link provided in the previous question is a legally binding document
 - [ ] I am entering into the Agreement that was provided at the link in the previous question voluntarily
 - [ ] I understand English or have had the Agreement document that was provided at the link in the previous question translated
