@@ -29,6 +29,10 @@ The following acknowledgments should be added as required questions in the event
 - [ ] I am entering into the Agreement that was provided at the link in the previous question voluntarily
 - [ ] I understand English or have had the Agreement document that was provided at the link in the previous question translated
 
+#### Additinal Digital Acknowledgment Requirements
+
+- [ ] I agree that I may be included in a minimum of four (4) photos that may will be taken during the event and uploaded to X or Instagram
+
 ### Record of Acceptance
 
 Participant acceptance of these terms will be recorded with:
