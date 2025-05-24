@@ -4,7 +4,7 @@
 - Version: 2025.1
 - Document ID: PP-SYD-20250524
 - Document Date: 2025-05-24
-- Document Link: _____________________
+- Document Link: https://raw.githubusercontent.com/ltfschoen/meetups/refs/heads/main/events/20250524-polkadot-popup-sydney/agreement.md
 
 ## Organizer Section
 
