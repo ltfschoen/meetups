@@ -4,6 +4,7 @@
 - Version: 2025.1
 - Document ID: _____________________
 - Document Date: _____________________
+- Document Link: _____________________
 
 *This document must be reviewed by legal counsel in each relevant jurisdiction before use.*
 
@@ -25,10 +26,10 @@ For the event:
 The following acknowledgments should be added as required questions in the event registration platform (e.g., Meetup, EventBrite, Luma) that must be checked before an organizer can accept an attendee:
 
 - [ ] I confirm I am of legal age in my jurisdiction
-- [ ] I have read and understood this Agreement in its entirety
-- [ ] I understand this is a legally binding document
-- [ ] I am entering into this Agreement voluntarily
-- [ ] I understand English or have had this document translated
+- [ ] I have read and understood the Agreement associated with this event in its entirety that is provided at the Document Link specified in the Document Control section
+- [ ] I understand that the Agreement at the link provided in the previous question is a legally binding document
+- [ ] I am entering into the Agreement that was provided at the link in the previous question voluntarily
+- [ ] I understand English or have had the Agreement document that was provided at the link in the previous question translated
 
 *Note: For non-standard events (e.g., high-risk activities, significant financial transactions), additional verification steps may be required. Consult legal counsel for specific requirements.*
 
@@ -39,7 +40,6 @@ Participant acceptance of these terms will be recorded with:
 - IP address
 - Device information
 - Meetup/platform user identifier
-Witness Date: __________________________________
 
 -------------------
 
