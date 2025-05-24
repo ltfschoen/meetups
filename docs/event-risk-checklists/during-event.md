@@ -1,10 +1,27 @@
 # Web3 Event During-Event Risk Checklist
 
+## Liability Management
+- [ ] Verify all participants have signed waivers before entry
+- [ ] Maintain log of waiver completion
+- [ ] Display clear disclaimer notices about:
+  - [ ] Financial risks
+  - [ ] Educational content limitations
+  - [ ] No financial advice provision
+- [ ] Document any incidents immediately
+
 ## Physical Security
 - [ ] Security personnel stationed at key points
-- [ ] Crowd control measures in place
-- [ ] First aid kit and trained personnel available
-- [ ] Clear signage for emergency exits
+- [ ] Crowd control measures active
+- [ ] First aid kit and trained personnel ready
+- [ ] Emergency exits clear and marked
+- [ ] Venue capacity limits monitored
+
+## Educational Content Control
+- [ ] Ensure presenters avoid specific financial advice
+- [ ] Monitor Q&A sessions for compliance
+- [ ] Maintain clear educational vs advice boundaries
+- [ ] Record any potential liability concerns
+- [ ] Use approved disclaimer statements
 
 ## Technical Security
 - [ ] Network security monitoring active
@@ -14,23 +31,25 @@
 - [ ] Technical support team on standby
 
 ## Participant Protection
-- [ ] Liability waivers signed
-- [ ] Clear warning signs about crypto risks
-- [ ] Educational materials available
-- [ ] Support staff identified and visible
-- [ ] Privacy measures in place for sensitive operations
+- [ ] Verify membership status if required
+- [ ] Check ID for international guests
+- [ ] Display clear warning signs
+- [ ] Support staff visible and briefed
+- [ ] Privacy measures maintained
 
 ## Active Risk Mitigation
-### Financial Risks
-- [ ] Use test networks for demonstrations
-- [ ] Set transaction limits
-- [ ] Clear disclaimer about investment risks
-- [ ] No handling of participant private keys
+### Financial Risk Control
+- [ ] Use only test networks
+- [ ] Enforce transaction limits
+- [ ] Display risk disclaimers
+- [ ] No private key handling
+- [ ] Monitor for unauthorized advice
 
-### Technical Risks
-- [ ] Backup power supply operational
-- [ ] Alternative internet connection ready
-- [ ] Multiple demo environments available
-- [ ] Recovery procedures accessible
+### Operational Risk Control
+- [ ] Backup power ready
+- [ ] Alternative internet active
+- [ ] Demo environments stable
+- [ ] Emergency procedures ready
+- [ ] Incident log maintained
 
 *Note: This checklist should be customized based on specific event requirements and local regulations.*
